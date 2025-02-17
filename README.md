@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋, I'm Giacomo Zoppi🚀</h1>
 🎓 **Software Engineering Student** at Universidad Peruana de Ciencias Aplicadas (UPC)  
-💻 **Full-Stack Developer** | Passionate about building scalable web & mobile applications    
+
+💻 **Full-Stack Developer** | Passionate about building scalable web & mobile applications   
+
 🔭 I’m currently working on [EventMate with React.js, Go and MongoDB](https://github.com/EventMate-Project)
+
 🌱 I’m currently learning **React.js, Go, Python**
+
 📫 How to reach me **giacomogazr@gmail.com**
 
 
